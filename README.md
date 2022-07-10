@@ -1,5 +1,7 @@
-<pre>
-Customer Service Requests Analysis
+# Data Science wiht Python/Project 6
+
+### Customer Service Requests Analysis
+
 DESCRIPTION
 
 You've been asked to perform data analysis of service request (311) calls from New York City. You've also been asked to utilize data wrangling techniques 
@@ -42,4 +44,4 @@ Perform the following steps:
 
 6. Identify significant variables by performing a statistical analysis using p-values and chi-square values (Optional)
 
-To download the dataset refer to Course Resources Section in the SELF LEARNING tab
+All the best!
