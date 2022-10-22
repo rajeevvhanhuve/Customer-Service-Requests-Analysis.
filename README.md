@@ -42,7 +42,6 @@ Perform the following steps:
 
 6. Identify significant variables by performing a statistical analysis using p-values and chi-square values (Optional)
 
-Please download the dataset from here
-https://github.com/Simplilearn-Edu/Data-Science-with-Python-Project-2-/blob/master/Data%20Science%20with%20Python%20Two.zip
+Please download the dataset from [here](https://github.com/Simplilearn-Edu/Data-Science-with-Python-Project-2-)
 
 All the best!
