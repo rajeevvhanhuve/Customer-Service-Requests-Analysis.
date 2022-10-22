@@ -1,6 +1,4 @@
-# Data Science wiht Python: Project 6
-
-### Customer Service Requests Analysis
+## Customer Service Requests Analysis
 
 DESCRIPTION
 
